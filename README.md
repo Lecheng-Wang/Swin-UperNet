@@ -20,9 +20,6 @@ Swin-UperNet is a state-of-the-art semantic segmentation framework that combines
 - CUDA 11.0+  
 - Linux environment recommended  
 
-### Install via pip  
-python train.py
-
 ### Training Command
 To train a model on the glacier segmentation task, use the following command structure:
 ```bash
@@ -60,11 +57,22 @@ DATASET_PATH/
 │   ├── train.txt
 │   └── val.txt
 ├── images/
-│   ├── image1.tif
-│   ├── image2.tif
+│   ├── 1.tif
+│   ├── 2.tif
 │   └── ...
-└── masks/
-    ├── mask1.tif
-    ├── mask2.tif
+└── labels/
+    ├── 1.tif
+    ├── 2.tif
     └── ...
 ```
+
+## Comparative Models
+All models were trained from scratch under identical conditions for fair comparison:
+```
+   SETR [19]
+   DeeplabV3+ [7]
+   HRNet [20]
+   SegNeXt [21]
+   Swin-UperNet (ours)
+```
+
