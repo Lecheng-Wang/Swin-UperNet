@@ -68,11 +68,11 @@ DATASET_PATH/
 
 ## Comparative Models
 All models were trained from scratch under identical conditions for fair comparison:
-```
+
 - `SETR` [19]
 - `DeeplabV3+` [7]
 - `HRNet` [20]
 - `SegNeXt` [21]
 - `Swin-UperNet` (ours)
-```
+
 
