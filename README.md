@@ -21,5 +21,4 @@ Swin-UperNet is a state-of-the-art semantic segmentation framework that combines
 - Linux environment recommended  
 
 ### Install via pip  
-```bash  
-pip install -r requirements.txt  
+python train.py
