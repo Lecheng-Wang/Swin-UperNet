@@ -16,9 +16,14 @@ Swin-UperNet is a state-of-the-art semantic segmentation framework that combines
 ## Installation  
 ### Prerequisites  
 - Python 3.12.6  
-- PyTorch 2.4.1  
+- PyTorch 2.4.1
+- TorchSummary 1.5.1
+- TorchInfo 1.8.0
+- Thop 0.1.1
 - CUDA 11.8
-- timm 1.0.15
+- Timm 1.0.15
+- numpy 1.26.4
+- GDAL 3.8.4
 - Linux environment recommended  
 
 ### Training Command
