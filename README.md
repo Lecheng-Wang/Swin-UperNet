@@ -1,6 +1,6 @@
 # Swin-UperNet: Transformer-based Semantic Segmentation  
 
-![Segmentation Example](docs/demo.png)  
+![Segmentation Example](Demo.tif)  
 *Example semantic segmentation results using Swin-UperNet*  
 
 ## Introduction  
