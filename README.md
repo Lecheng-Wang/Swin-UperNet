@@ -81,4 +81,17 @@ All models were trained from scratch under identical conditions for fair compari
 - `SETR`
 - `Swin-UperNet` (ours)
 
+## 论文链接 / Paper links
+
+- **DeepLabv3+ — Encoder-Decoder with Atrous Separable Convolution (Liang-Chieh Chen et al., 2018).**  
+  Paper: [arXiv:1802.02611 (PDF)](https://arxiv.org/pdf/1802.02611). :contentReference[oaicite:0]{index=0}
+
+- **U-Net — U-Net: Convolutional Networks for Biomedical Image Segmentation (Olaf Ronneberger et al., 2015).**  
+  Paper: [arXiv:1505.04597 (PDF)](https://arxiv.org/pdf/1505.04597). :contentReference[oaicite:1]{index=1}
+
+- **SegFormer — SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Enze Xie et al., 2021).**  
+  Paper: [arXiv:2105.15203 (PDF)](https://arxiv.org/pdf/2105.15203). :contentReference[oaicite:2]{index=2}
+
+- **SETR — Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (Sixiao Zheng et al., 2021).**  
+  Paper: [arXiv:2012.15840 (PDF)](https://arxiv.org/pdf/2012.15840). :contentReference[oaicite:3]{index=3}
 
