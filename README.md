@@ -1,4 +1,4 @@
-# Swin-UperNet: Transformer-based Semantic Segmentation  
+# Swin Transformer-Based UperNet for Glacier Semantic Segmentation
 
 ![Segmentation Example](Demo.png)  
 *Example semantic segmentation results using Swin-UperNet*  
@@ -75,10 +75,10 @@ DATASET_PATH/
 ## Comparative Models
 All models were trained from scratch under identical conditions for fair comparison:
 
-- `SETR` [19]
-- `DeeplabV3+` [7]
-- `HRNet` [20]
-- `SegNeXt` [21]
+- `DeeplabV3+`
+- `U-Net`
+- `SegFormer`
+- `SETR`
 - `Swin-UperNet` (ours)
 
 
