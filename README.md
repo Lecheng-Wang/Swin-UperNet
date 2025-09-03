@@ -1,6 +1,6 @@
 # Swin Transformer-Based UperNet for Glacier Semantic Segmentation
 
-![Segmentation Example](Demo.png)  
+![Segmentation Example](Swin UperNet.png)  
 *Example semantic segmentation results using Swin-UperNet*  
 
 ## Introduction  
