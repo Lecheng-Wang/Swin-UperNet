@@ -92,12 +92,13 @@ All models were trained from scratch under identical conditions for fair compari
 - `SegFormer` — **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Enze Xie et al., 2021).**  
   Paper: [arXiv:2105.15203 (PDF)](https://arxiv.org/pdf/2105.15203). :contentReference[oaicite:2]{index=2}
 
-- `SETR` — **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (Sixiao Zheng et al., 2021).**  
+- `SETR` — **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (Sixiao Zheng et al., 2020/2021).**  
   Paper: [arXiv:2012.15840 (PDF)](https://arxiv.org/pdf/2012.15840). :contentReference[oaicite:3]{index=3}
 
-- `Swin-UperNet`(ours) — **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows （Ze Liu et al.,2021,ICCV).**  
-  Paper: [arXiv:2103.14030 (PDF)](https://arxiv.org/pdf/2103.14030). :contentReference[oaicite:4]{index=4}
-                       — **Unified Perceptual Parsing for Scene Understanding (Tete Xiao et al.,2018,ECCV).**  
+- `Swin-UperNet` (ours) — **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Ze Liu et al., 2021, ICCV).**  
+  Paper: [arXiv:2103.14030 (PDF)](https://arxiv.org/pdf/2103.14030). :contentReference[oaicite:4]{index=4}  
+  — **Unified Perceptual Parsing for Scene Understanding (UPerNet) (Tete Xiao et al., 2018, ECCV).**  
   Paper: [arXiv:1807.10221 (PDF)](https://arxiv.org/pdf/1807.10221). :contentReference[oaicite:5]{index=5}
+
 
 
