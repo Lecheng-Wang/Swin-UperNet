@@ -83,7 +83,7 @@ All models were trained from scratch under identical conditions for fair compari
 
 ## 论文链接 / Paper links
 
-- **DeepLabv3+ — Encoder-Decoder with Atrous Separable Convolution (Liang-Chieh Chen et al., 2018).**  
+- `DeepLabv3+` — **Encoder-Decoder with Atrous Separable Convolution (Liang-Chieh Chen et al., 2018).**  
   Paper: [arXiv:1802.02611 (PDF)](https://arxiv.org/pdf/1802.02611). :contentReference[oaicite:0]{index=0}
 
 - **U-Net — U-Net: Convolutional Networks for Biomedical Image Segmentation (Olaf Ronneberger et al., 2015).**  
