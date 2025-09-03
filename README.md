@@ -1,5 +1,5 @@
 # Swin Transformer-Based UperNet for Glacier Semantic Segmentation
-
+This repository provides the official PyTorch implementation of the paper:**"Integrating Spectral, Topographic, and NDSI with Swin-UperNet for Glacier Extraction Under Complex Terrain Conditions"**
 ![Segmentation Example](Swin_UperNet.png)  
 *Example semantic segmentation results using Swin-UperNet*  
 
