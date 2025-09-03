@@ -2,7 +2,7 @@
 This repository provides the official PyTorch implementation of the paper:
 **Wang Lecheng, Wang Maozhi, Xia Xueqin. Integrating Spectral, Topographic, and NDSI with Swin-UperNet for Glacier Extraction Under Complex Terrain Conditions, 2025,×(×):×-×.**
 ![Segmentation Example](Swin_UperNet.png)  
-*Example semantic segmentation results using Swin-UperNet*  
+*Schematic diagram of the Swin-UperNet architecture*  
 
 ## Introduction  
 Swin-UperNet is a state-of-the-art semantic segmentation framework that combines the powerful Swin Transformer backbone with the UperNet head architecture. This repository provides an implementation of the Swin-UperNet model for high-performance semantic segmentation tasks.  
