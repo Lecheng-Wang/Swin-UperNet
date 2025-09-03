@@ -81,7 +81,7 @@ All models were trained from scratch under identical conditions for fair compari
 - `SETR`
 - `Swin-UperNet` (ours)
 
-## 论文链接 / Paper links
+## Comparative Models links
 
 - `DeepLabv3+` — **Encoder-Decoder with Atrous Separable Convolution (Liang-Chieh Chen et al., 2018).**  
   Paper: [arXiv:1802.02611 (PDF)](https://arxiv.org/pdf/1802.02611). :contentReference[oaicite:0]{index=0}
@@ -96,8 +96,8 @@ All models were trained from scratch under identical conditions for fair compari
   Paper: [arXiv:2012.15840 (PDF)](https://arxiv.org/pdf/2012.15840). :contentReference[oaicite:3]{index=3}
 
 - `Swin-UperNet`(ours) — **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows （Ze Liu et al.,2021,ICCV).**  
-  Paper: [arXiv:2103.14030 (PDF)](https://arxiv.org/pdf/2103.14030). :contentReference[oaicite:0]{index=4}
- **UPerNet **Unified Perceptual Parsing for Scene Understanding (Tete Xiao et al.,2018,ECCV).**  
-  Paper: [arXiv:1807.10221 (PDF)](https://arxiv.org/pdf/1807.10221). :contentReference[oaicite:1]{index=5}
+  Paper: [arXiv:2103.14030 (PDF)](https://arxiv.org/pdf/2103.14030). :contentReference[oaicite:4]{index=4}
+                       — **Unified Perceptual Parsing for Scene Understanding (Tete Xiao et al.,2018,ECCV).**  
+  Paper: [arXiv:1807.10221 (PDF)](https://arxiv.org/pdf/1807.10221). :contentReference[oaicite:5]{index=5}
 
 
