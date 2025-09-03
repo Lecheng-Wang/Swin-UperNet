@@ -75,19 +75,19 @@ DATASET_PATH/
 ## Comparative Models links
 All models were trained from scratch under identical conditions for fair comparison:
 
-- `DeepLabv3+`  
+- **`DeepLabv3+`**  
   **Encoder-Decoder with Atrous Separable Convolution (Liang-Chieh Chen et al., 2018, ECCV).**  
   Paper: [arXiv:1802.02611 (PDF)](https://arxiv.org/pdf/1802.02611).  
-- `U-Net`  
+- **`U-Net`**  
   **U-Net: Convolutional Networks for Biomedical Image Segmentation (Olaf Ronneberger et al., 2015, MICCAI).**  
   Paper: [arXiv:1505.04597 (PDF)](https://arxiv.org/pdf/1505.04597).  
-- `SegFormer`  
+- **`SegFormer`**  
   **SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers (Enze Xie et al., 2021, NIPS).**  
   Paper: [arXiv:2105.15203 (PDF)](https://arxiv.org/pdf/2105.15203).  
-- `SETR`  
+- **`SETR`**  
   **Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers (Sixiao Zheng et al., 2021, CVPR).**  
   Paper: [arXiv:2012.15840 (PDF)](https://arxiv.org/pdf/2012.15840).  
-- `Swin-UperNet` (ours)  
+- **`Swin-UperNet`** (ours)  
   **Swin Transformer: Hierarchical Vision Transformer using Shifted Windows (Ze Liu et al., 2021, ICCV).**  
   Paper: [arXiv:2103.14030 (PDF)](https://arxiv.org/pdf/2103.14030).  
   **Unified Perceptual Parsing for Scene Understanding (UPerNet) (Tete Xiao et al., 2018, ECCV).**   
